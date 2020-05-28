@@ -1,23 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 28, 2020
+**Today's Progress**: Laying the ground work from project 01. What's in my fridge.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** Right now I am just getting my notebooks all setup, trying to get my idea out there.  
+**Project Descritpion**: Goal is to have a physical kiosk in my kitchen that lists all items within my two (2) refridgerators and cubords.  - Minimume items listed should be quantity, photo, and expiration dates.
+- Must be accessable via internet (with proper security built in).
+- Would be cool if: (a) could add items via barcode or image; (b) recieve tweets or emails when something is about to expire, (c) search for recipies based on what you have with options to add +1,2... items in order to make.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
+**Link to work:** No work to link yet.
 
 ### Day 1: June 27, Monday
 
